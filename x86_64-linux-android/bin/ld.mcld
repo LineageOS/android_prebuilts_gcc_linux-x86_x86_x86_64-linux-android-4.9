@@ -1,1 +1,1 @@
-../../bin/x86_64-linux-android-ld.mcld
+../../../../../../toolchains/llvm-3.5/prebuilt/linux-x86_64/bin/ld.mcld
